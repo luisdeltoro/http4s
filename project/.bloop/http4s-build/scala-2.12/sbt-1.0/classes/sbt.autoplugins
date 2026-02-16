@@ -1,0 +1,3 @@
+org.http4s.build.CentralRequirementsPlugin
+org.http4s.build.Http4sPlugin
+org.http4s.build.PrivateProjectPlugin
